@@ -3,7 +3,7 @@
 	Properties //Interface btwn shaders & unity/the inspector
 	{
 		//Name("Display name", Type) = Default()
-		_Color ("Argle Flargle Blargle", Color) = (1.0,1.0,1.0,1.0)
+		_Color ("Argle Fargle Blargle", Color) = (1.0,1.0,1.0,1.0)
 	}
 	SubShader //Start of our shader
 	{
